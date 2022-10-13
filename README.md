@@ -17,7 +17,6 @@ https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8/hub/insure
 
 - https://www.youtube.com/watch?v=sE08f4iuOhA&t=225s
 
-- ab_channel=TraversyMedia
-  https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/
+- https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/
 
                   "  Done Is Better Than Perfect  "
